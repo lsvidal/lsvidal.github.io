@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "First post"
 date: 2015-02-20
 ---
