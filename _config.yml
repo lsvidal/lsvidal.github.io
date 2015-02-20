@@ -1,2 +1,3 @@
 name: Leonardo Vidal
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
